@@ -1,0 +1,22 @@
+.info-card li{
+    font-size: 13px;
+    line-height: 1.9;
+    color: black;
+    font-weight: 400;
+}
+@media (max-width: 1920px) and (min-width: 1441px) {
+    .info-card li{
+        font-size: 18px;
+        line-height: 1.9;
+        color: black;
+        font-weight: 400;
+    }
+}
+@media (min-width: 2311px) and (max-width: 2560px) {
+    .info-card li{
+        font-size: 29px;
+        line-height: 1.9;
+        color: black;
+        font-weight: 400;
+    }
+}
